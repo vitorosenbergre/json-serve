@@ -1,0 +1,34 @@
+{
+    "users": [
+      {
+        "id": "0646",
+        "fullName": "Vitor",
+        "email": "v@gmail.com",
+        "password": "123"
+      },
+      {
+        "id": "7478",
+        "fullName": "teste",
+        "email": "teste@teste.com",
+        "password": "123"
+      }
+    ],
+    "markers": [
+      {
+        "id": "9da0",
+        "tipo": "assalto",
+        "detalhes": "me roubaro",
+        "dateTime": "2024-11-24T18:39",
+        "latitude": -14.859145490857417,
+        "longitude": -40.834379196167
+      },
+      {
+        "id": "e632",
+        "tipo": "roubo",
+        "detalhes": "aaa",
+        "dateTime": "2024-11-24T20:06",
+        "latitude": -14.874862200366909,
+        "longitude": -40.82779428356219
+      }
+    ]
+  }
