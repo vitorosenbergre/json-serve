@@ -2,7 +2,7 @@
 
 ## 🔎 Sobre o Projeto
 
-Este projeto consiste em uma simulação de um banco de dados, desenvolvido utilizando json server e hospedando no vercel para o projeto Bastião. O principal objetivo da aplicação é simular um banco de dados para o funcionamento da interface.
+Este projeto consiste em uma simulação de um banco de dados, desenvolvido utilizando json server e hospedado no vercel para o projeto Bastião. O principal objetivo da aplicação é simular um banco de dados para o funcionamento da interface.
 
 A aplicação foi projetada para ser simples.
 
